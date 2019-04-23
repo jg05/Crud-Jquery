@@ -1,0 +1,20 @@
+body{
+    background-image: url(../img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fondo1{
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    border-radius: 10px ;
+}
+
+/* .banner{
+   
+  
+    background-image: url(../img/banner1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+} */
